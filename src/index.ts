@@ -1,4 +1,3 @@
-"use strict"
 
 const angka: number = 12
 console.log(angka)
